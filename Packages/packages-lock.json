@@ -6,6 +6,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "bubbet-zioconfigfile": {
+      "version": "file:ZioConfigFile",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.passivepicasso.thunderkit": {
       "version": "https://github.com/PassivePicasso/ThunderKit.git",
       "depth": 0,
@@ -130,6 +136,12 @@
       "source": "git",
       "dependencies": {},
       "hash": "e11f7f1c2374828c6f23e88cac223ac9aab77681"
+    },
+    "rune580-risk_of_options": {
+      "version": "file:Risk_Of_Options",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
