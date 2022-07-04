@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2053560051
+CRC: 2684004050
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ab7409ae36d782911fd42caf86807cae
+    Hash: 2fe6ba69250791c0d47c8276e94160ad
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d61b7faa5a20375ebe028fa0e98b5f21
+    Hash: bbf3b3fbc93155cb843e93656402171c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -48,7 +48,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: -405508275, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
 - Class: 114
+  Script: {fileID: -98529514, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+- Class: 114
   Script: {fileID: 1367256648, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
@@ -66,9 +70,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
+  Script: {fileID: -1806065810, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
   Script: {fileID: 1925329309, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 749430381, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
+  Script: {fileID: 938885238, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
+  Script: {fileID: 1421439112, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -89,6 +99,7 @@ Assets:
 - Assets/Aerolt/Sprite/Rounded40px.png
 - Assets/Aerolt/Icons/ic_check.png
 - Assets/Aerolt/Sprite/Rounded5px@4x.png
+- Assets/Aerolt/Components/PlayerEntry.prefab
 - Assets/Aerolt/Icons/Menu_Teleporter.png
 - Assets/Aerolt/Sprite/Rounded10px@2x.png
 - Assets/TextMesh Pro/Fonts/LiberationSans.ttf
@@ -116,11 +127,13 @@ Assets:
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown Icon.psd
 - Assets/Aerolt/Sprite/Rounded40px@2x.png
 - Assets/Aerolt/Components/Toggle.prefab
+- Assets/Aerolt/Fonts/Oxygen-Bold SDF.asset
 - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
 - Assets/Aerolt/Components/Button.prefab
 - Assets/Aerolt/Icons/Menu_Settings.png
 - Assets/Aerolt/Components/SidebarButton.prefab
 - Assets/Aerolt/Icons/icon.png
+- Assets/Aerolt/Sprite/ic_page_prev.png
 - Assets/Aerolt/Icons/Menu_Monster.png
 - Assets/Aerolt/Icons/right-click.png
 - Assets/Aerolt/Icons/left-click.png
@@ -132,5 +145,6 @@ Assets:
 - Assets/Aerolt/Sprite/Rounded40px@4x.png
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd
 - Assets/Aerolt/Sprite/Rounded20px@4x.png
+- Assets/Aerolt/Fonts/Oxygen-Bold.ttf
 - Assets/Aerolt/Icons/shift.png
 Dependencies: []
