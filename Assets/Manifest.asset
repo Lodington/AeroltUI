@@ -15,7 +15,7 @@ MonoBehaviour:
   StagingPaths:
   - C:\Users\tyler\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\plugins
   assetBundles:
-  - assetBundleName: Aerolt
+  - assetBundleName: aeroltbundle
     assets:
     - {fileID: 102900000, guid: d303c66eeb3bfe14bbafd1ca88696887, type: 3}
 --- !u!114 &-6925661510230365985
@@ -52,4 +52,4 @@ MonoBehaviour:
   - {fileID: -6925661510230365985}
   - {fileID: -8692410500981485037}
   identity: {fileID: -6925661510230365985}
-  QuickAccess: 0
+  QuickAccess: 1
