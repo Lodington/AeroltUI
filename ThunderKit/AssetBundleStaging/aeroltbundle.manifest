@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2104592340
+CRC: 2684004050
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6381a279b31e2f72280531a078c3c58a
+    Hash: 2fe6ba69250791c0d47c8276e94160ad
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8cffbcc6045a108174113b1d90ecd1dd
+    Hash: bbf3b3fbc93155cb843e93656402171c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -48,7 +48,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: -405508275, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
 - Class: 114
+  Script: {fileID: -98529514, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+- Class: 114
   Script: {fileID: 1367256648, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
@@ -70,15 +74,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1925329309, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
-  Script: {fileID: 1777764770, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
-- Class: 114
-  Script: {fileID: 1956082171, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
-- Class: 114
-  Script: {fileID: 1890262887, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
-- Class: 114
-  Script: {fileID: 1896263481, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
-- Class: 114
   Script: {fileID: 749430381, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
+  Script: {fileID: 938885238, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
+  Script: {fileID: 1421439112, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -99,6 +99,7 @@ Assets:
 - Assets/Aerolt/Sprite/Rounded40px.png
 - Assets/Aerolt/Icons/ic_check.png
 - Assets/Aerolt/Sprite/Rounded5px@4x.png
+- Assets/Aerolt/Components/PlayerEntry.prefab
 - Assets/Aerolt/Icons/Menu_Teleporter.png
 - Assets/Aerolt/Sprite/Rounded10px@2x.png
 - Assets/TextMesh Pro/Fonts/LiberationSans.ttf
