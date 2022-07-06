@@ -72,3 +72,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Assets/ThunderKitSettings/Logs/*
 .idea
+Assets/Aerolt/Views.meta
+Assets/ThunderKitSettings/ThunderKitSettings.asset
+Assets/StreamingAssets.meta
