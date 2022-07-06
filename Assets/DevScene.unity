@@ -369,29 +369,9 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1079622522386599624, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
+    - target: {fileID: 944540492053591339, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1079622522386599624, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1079622522386599624, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1079622522386599624, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1079622522386599624, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1468874178531051852, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
@@ -402,36 +382,6 @@ PrefabInstance:
     - target: {fileID: 1468874178531051852, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2856382937071792273, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2856382937071792273, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2856382937071792273, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2856382937071792273, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2856382937071792273, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2856382937071792273, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3276003933045923734, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
@@ -607,36 +557,6 @@ PrefabInstance:
     - target: {fileID: 6484209681552572292, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7597717014983434419, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7597717014983434419, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7597717014983434419, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7597717014983434419, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7597717014983434419, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7597717014983434419, guid: da2e60f79327bae469d8cb8c1c6e0ec8,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
