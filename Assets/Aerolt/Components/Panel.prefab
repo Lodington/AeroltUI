@@ -15,6 +15,8 @@ GameObject:
   - component: {fileID: 8260413146082497621}
   - component: {fileID: 3834136479649079123}
   - component: {fileID: 6068739411201213807}
+  - component: {fileID: -6737211034334197244}
+  - component: {fileID: 8293376661303720067}
   m_Layer: 5
   m_Name: Panel
   m_TagString: Untagged
@@ -144,6 +146,31 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   windowName: 
+--- !u!114 &-6737211034334197244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3650506899519211567}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -103623725, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8293376661303720067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3650506899519211567}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1616264595, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _forceCursorForGamepad: 1
 --- !u!1 &4411860957337096606
 GameObject:
   m_ObjectHideFlags: 0
