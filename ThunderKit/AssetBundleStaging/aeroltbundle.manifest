@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1608582759
+CRC: 771440799
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cf92cbc6c8b075aa37d9a5e64ecccd8f
+    Hash: 1da7c3c4707c0f2da070c7a84a23b03a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d70141ed32839775e2640ff3467262fa
+    Hash: 5d9cf0febdefba12f5646214db8b6088
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -18,21 +18,31 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 1297475563, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+- Class: 114
+  Script: {fileID: 877486143, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 1979810121, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 1421439112, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7b743370ac3e4ec2a1668f5455a8ef8a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
 - Class: 114
@@ -46,17 +56,21 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1367256648, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
 - Class: 114
-  Script: {fileID: 2109663825, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+  Script: {fileID: -113659843, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
 - Class: 114
   Script: {fileID: -1184210157, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
 - Class: 114
-  Script: {fileID: 1297475563, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: -798650217, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 535236639, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
   Script: {fileID: -1053852145, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
-  Script: {fileID: 1979810121, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+  Script: {fileID: -1655364978, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -630047940, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
   Script: {fileID: -573374155, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
@@ -67,6 +81,8 @@ ClassTypes:
   Script: {fileID: 1213012214, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
   Script: {fileID: 326909110, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 1873157448, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
@@ -81,8 +97,6 @@ ClassTypes:
   Script: {fileID: 1956082171, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 938885238, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
-- Class: 114
-  Script: {fileID: 1421439112, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 1890262887, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
@@ -103,55 +117,67 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Aerolt/Icons/Menu_Player.png
+- Assets/Aerolt/Icons/Menu_Interactables128.png
 - Assets/Aerolt/Components/Dropdown.prefab
 - Assets/Aerolt/Icons/Discord-Logo-Color.png
+- Assets/Aerolt/Prefabs/MonsterWindow Variant.prefab
+- Assets/Aerolt/Components/BuffIcon.prefab
 - Assets/Aerolt/Sprite/Rounded40px.png
+- Assets/Aerolt/Components/ItemIcon.prefab
+- Assets/Aerolt/Icons/Menu_Body128.png
 - Assets/Aerolt/Icons/ic_check.png
+- Assets/Aerolt/Icons/Menu_Items128.png
 - Assets/Aerolt/Sprite/Rounded5px@4x.png
 - Assets/Aerolt/Components/PlayerEntry.prefab
-- Assets/Aerolt/Icons/Menu_Teleporter.png
 - Assets/Aerolt/Sprite/Rounded10px@2x.png
 - Assets/TextMesh Pro/Fonts/LiberationSans.ttf
 - Assets/Aerolt/Icons/discord-uwu-sweat.png
-- Assets/Aerolt/Icons/Menu_Interactables.png
-- Assets/Aerolt/Icons/Menu_Equipment.png
 - Assets/Aerolt/Sprite/Rounded10px.png
 - Assets/Aerolt/Sprite/Rounded5px@2x.png
+- Assets/Aerolt/Components/Slider.prefab
+- Assets/Aerolt/Icons/Menu_ESP128.png
 - Assets/Aerolt/Sprite/Rounded20px@2x.png
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd
-- Assets/Aerolt/Icons/Menu_ESP.png
 - Assets/Aerolt/Components/Panel.prefab
 - Assets/Aerolt/Prefabs/PlayerCanvas.prefab
 - Assets/Aerolt/Fonts/Oxygen-Regular SDF.asset
+- Assets/Aerolt/Prefabs/EspWindow Variant.prefab
+- Assets/Aerolt/Components/BodyStatRow.prefab
 - Assets/Aerolt/Fonts/Oxygen-Regular.ttf
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd
 - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
-- Assets/Aerolt/Icons/Menu_Lobby.png
-- Assets/Aerolt/Icons/Menu_Body.png
 - Assets/Aerolt/Components/InputField.prefab
 - Assets/Aerolt/Components/GenButton.prefab
 - Assets/Aerolt/Components/Scroll View.prefab
 - Assets/Aerolt/Sprite/Rounded20px.png
+- Assets/Aerolt/Icons/Menu_Player128.png
 - Assets/Aerolt/Sprite/Rounded5px.png
+- Assets/Aerolt/Prefabs/Main Variant.prefab
+- Assets/Aerolt/Icons/Menu_Equipment128.png
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown Icon.psd
 - Assets/Aerolt/Sprite/Rounded40px@2x.png
+- Assets/Aerolt/Icons/Menu_Settings128.png
+- Assets/Aerolt/Prefabs/SocialWindow Variant.prefab
 - Assets/Aerolt/Components/Toggle.prefab
 - Assets/Aerolt/Fonts/Oxygen-Bold SDF.asset
 - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
 - Assets/Aerolt/Components/Button.prefab
-- Assets/Aerolt/Icons/Menu_Settings.png
+- Assets/Aerolt/Components/PlayerColumnToggle.prefab
 - Assets/Aerolt/Components/SidebarButton.prefab
 - Assets/Aerolt/Icons/icon.png
+- Assets/Aerolt/Prefabs/TeleporterWindow Variant.prefab
+- Assets/Aerolt/Icons/Menu_Lobby128.png
 - Assets/Aerolt/Sprite/ic_page_prev.png
-- Assets/Aerolt/Icons/Menu_Monster.png
 - Assets/Aerolt/Icons/right-click.png
+- Assets/Aerolt/Prefabs/InteractableWindow Variant.prefab
 - Assets/Aerolt/Icons/left-click.png
+- Assets/Aerolt/Icons/Menu_Teleporter128.png
+- Assets/Aerolt/Icons/Menu_Monster128.png
 - Assets/TextMesh Pro/Shaders/TMP_SDF.shader
-- Assets/Aerolt/Icons/Menu_Items.png
 - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
 - Assets/Aerolt/Sprite/Rounded10px@4x.png
 - Assets/Aerolt/Components/ToggleRight.prefab
+- Assets/Aerolt/Fonts/Oxygen-Regular DropShadow.asset
 - Assets/Aerolt/Sprite/Rounded40px@4x.png
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd
 - Assets/Aerolt/Sprite/Rounded20px@4x.png
