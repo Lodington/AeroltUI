@@ -1,5 +1,21 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &8678516970351080013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7426533871730416042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1034079170, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  configName: 
+  configDesc: 
+  toggleImage: {fileID: 0}
+  toggleOnImage: {fileID: 0}
 --- !u!1001 &6177088873904034181
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17,7 +33,7 @@ PrefabInstance:
     - target: {fileID: 3650506899519211567, guid: 4596f5d7e95456a4f9eb28143a441a09,
         type: 3}
       propertyPath: m_Name
-      value: SocialWindow
+      value: SocialWindow Variant
       objectReference: {fileID: 0}
     - target: {fileID: 3650506899519211567, guid: 4596f5d7e95456a4f9eb28143a441a09,
         type: 3}
@@ -226,3 +242,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4596f5d7e95456a4f9eb28143a441a09, type: 3}
+--- !u!1 &7426533871730416042 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3650506899519211567, guid: 4596f5d7e95456a4f9eb28143a441a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 6177088873904034181}
+  m_PrefabAsset: {fileID: 0}

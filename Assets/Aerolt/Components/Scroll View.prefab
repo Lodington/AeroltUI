@@ -47,6 +47,7 @@ GameObject:
   - component: {fileID: 1398341538789183243}
   - component: {fileID: 6005223104267513066}
   - component: {fileID: 747445943280643063}
+  - component: {fileID: 4506412044716184366}
   m_Layer: 5
   m_Name: Handle
   m_TagString: Untagged
@@ -110,6 +111,20 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &4506412044716184366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1151612451536774734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 390653533, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorLayer: 0
+  alphaMult: 1
 --- !u!1 &1772728190748073106
 GameObject:
   m_ObjectHideFlags: 0
@@ -335,6 +350,7 @@ GameObject:
   - component: {fileID: 3216833786104934907}
   - component: {fileID: 9027228317960619950}
   - component: {fileID: 2423676672865649009}
+  - component: {fileID: 2015057294350609799}
   m_Layer: 5
   m_Name: Scrollbar Horizontal
   m_TagString: Untagged
@@ -447,6 +463,20 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &2015057294350609799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3909180899445739910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 390653533, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorLayer: 1
+  alphaMult: 0.25
 --- !u!1 &4048990963254506213
 GameObject:
   m_ObjectHideFlags: 0
@@ -547,6 +577,7 @@ GameObject:
   - component: {fileID: 588693273784336790}
   - component: {fileID: 6155025968395173273}
   - component: {fileID: 4479988038116897856}
+  - component: {fileID: 6177558801623163050}
   m_Layer: 5
   m_Name: Handle
   m_TagString: Untagged
@@ -610,6 +641,20 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &6177558801623163050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5285156135943878821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 390653533, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorLayer: 0
+  alphaMult: 1
 --- !u!1 &7493875380981740119
 GameObject:
   m_ObjectHideFlags: 0
@@ -658,6 +703,7 @@ GameObject:
   - component: {fileID: 7417365750565029090}
   - component: {fileID: 8561799628934063473}
   - component: {fileID: 7561117935279735192}
+  - component: {fileID: 5449473165441162786}
   m_Layer: 5
   m_Name: Scrollbar Vertical
   m_TagString: Untagged
@@ -770,3 +816,17 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &5449473165441162786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8416893436523521929}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 390653533, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorLayer: 1
+  alphaMult: 0.25
