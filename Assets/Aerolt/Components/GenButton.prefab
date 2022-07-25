@@ -120,8 +120,8 @@ GameObject:
   - component: {fileID: 2942516823012030596}
   - component: {fileID: 1730193699234731007}
   - component: {fileID: 2169336364738191614}
-  - component: {fileID: 4677397422880144120}
-  - component: {fileID: 8831545338354938846}
+  - component: {fileID: 2688460818007312548}
+  - component: {fileID: 2249739920261305869}
   m_Layer: 5
   m_Name: GenButton
   m_TagString: Untagged
@@ -213,7 +213,7 @@ MonoBehaviour:
   onRightClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &4677397422880144120
+--- !u!114 &2688460818007312548
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_Script: {fileID: -103623725, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &8831545338354938846
+--- !u!114 &2249739920261305869
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -264,7 +264,7 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 2081449170295357010}
+  m_TargetGraphic: {fileID: 0}
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []

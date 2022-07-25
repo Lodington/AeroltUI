@@ -16,7 +16,7 @@ MonoBehaviour:
   assemblyNames:
   - RoR2.dll
   - KinematicCharacterController.dll
-  NStripExecutable: {fileID: 0}
+  NStripExecutable: {fileID: 102900000, guid: 39e2644fdd2b31844bb745cba95889bb, type: 3}
 --- !u!114 &-5043661764892329791
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -109,7 +109,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc02a62d93c1105498092e320b2f0f46, type: 3}
   m_Name: ImportConfiguration
   m_EditorClassIdentifier: 
-  ConfigurationExecutors: []
+  ConfigurationExecutors:
+  - {fileID: 4802295815698609756}
+  - {fileID: -5043661764892329791}
+  - {fileID: -3096482545076807745}
+  - {fileID: -7373200607188985169}
+  - {fileID: -4766939995487828723}
+  - {fileID: -760382456364437515}
+  - {fileID: 1316654649876393823}
+  - {fileID: 8321520254182654580}
+  - {fileID: -3070111766077957210}
+  - {fileID: 7182649579986244875}
+  - {fileID: -337078249384103212}
+  - {fileID: 7183220030754592283}
+  - {fileID: 4881773058699958193}
+  - {fileID: 6999189050395208861}
+  - {fileID: 4115074254248976095}
+  - {fileID: 4693384600027680153}
+  - {fileID: 3960511446887878128}
+  - {fileID: 6427349398294494856}
   ConfigurationIndex: -1
 --- !u!114 &1316654649876393823
 MonoBehaviour:

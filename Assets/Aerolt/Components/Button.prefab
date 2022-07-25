@@ -160,10 +160,10 @@ GameObject:
   - component: {fileID: 5149966830490389749}
   - component: {fileID: 5149966830490389748}
   - component: {fileID: 5149966830490389738}
-  - component: {fileID: 2724307400655001409}
-  - component: {fileID: 3839780841799692547}
   - component: {fileID: 7501897901922085844}
   - component: {fileID: 5844766205178426029}
+  - component: {fileID: 2196541398394913854}
+  - component: {fileID: 8451481207983482330}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -248,7 +248,39 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
---- !u!114 &2724307400655001409
+--- !u!114 &7501897901922085844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5149966830490389736}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1806065810, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buttonText: {fileID: 5149966830290096900}
+  image: {fileID: 5149966830490389748}
+  rawImage: {fileID: 0}
+  onRightClick:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &5844766205178426029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5149966830490389736}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 390653533, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colorLayer: 0
+  alphaMult: 1
+--- !u!114 &2196541398394913854
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -260,7 +292,7 @@ MonoBehaviour:
   m_Script: {fileID: -103623725, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &3839780841799692547
+--- !u!114 &8451481207983482330
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -321,34 +353,3 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   defaultFallbackButton: 0
---- !u!114 &7501897901922085844
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5149966830490389736}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1806065810, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  buttonText: {fileID: 5149966830290096900}
-  image: {fileID: 5149966830490389748}
-  rawImage: {fileID: 0}
-  onRightClick:
-    m_PersistentCalls:
-      m_Calls: []
---- !u!114 &5844766205178426029
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5149966830490389736}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 390653533, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  colorLayer: 0
