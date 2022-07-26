@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1324318606
+CRC: 2453893261
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e19f36157775ebe088b24d8f54e3097c
+    Hash: d379401904f585c9b992d007ad1bf0c7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ce780128a434d3f619977aaa07ced052
+    Hash: 797fd03af8989a46cb0085f69bf7fed9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -18,11 +18,13 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
   Script: {fileID: 1297475563, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
 - Class: 114
   Script: {fileID: 877486143, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+  Script: {fileID: 390653533, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 2109663825, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
 - Class: 114
@@ -92,7 +94,7 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
-  Script: {fileID: 390653533, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+  Script: {fileID: -359992313, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 1103547146, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
@@ -101,6 +103,12 @@ ClassTypes:
   Script: {fileID: 1925329309, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 1203538653, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
+  Script: {fileID: 864090639, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
+  Script: {fileID: 1492588932, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
+  Script: {fileID: -779169445, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 1777764770, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
@@ -112,17 +120,17 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1890262887, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
-  Script: {fileID: -2103437935, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
-- Class: 114
   Script: {fileID: -910026578, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
-- Class: 114
-  Script: {fileID: -2140852438, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 1896263481, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 1007779352, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 749430381, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
+  Script: {fileID: -2103437935, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
+  Script: {fileID: -2140852438, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -194,6 +202,7 @@ Assets:
 - Assets/Aerolt/Icons/left-click.png
 - Assets/Aerolt/Icons/Menu_Teleporter128.png
 - Assets/Aerolt/Icons/Menu_Monster128.png
+- Assets/Aerolt/Components/EditItems.prefab
 - Assets/TextMesh Pro/Shaders/TMP_SDF.shader
 - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
 - Assets/Aerolt/Sprite/Rounded10px@4x.png
