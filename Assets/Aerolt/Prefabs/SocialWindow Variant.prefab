@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 1034079170, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  configName: 
-  configDesc: 
+  configName: Social
   toggleImage: {fileID: 0}
   toggleOnImage: {fileID: 0}
 --- !u!1001 &6177088873904034181

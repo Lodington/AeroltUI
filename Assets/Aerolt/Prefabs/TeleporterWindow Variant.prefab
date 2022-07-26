@@ -319,7 +319,7 @@ MonoBehaviour:
   m_Script: {fileID: 1034079170, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  configName: 
+  configName: Teleporter
   toggleImage: {fileID: 0}
   toggleOnImage: {fileID: 0}
 --- !u!114 &8254586507325041944
