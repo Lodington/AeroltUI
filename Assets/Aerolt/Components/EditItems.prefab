@@ -177,8 +177,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1362861573800059390, guid: e969440906153744abf1f4903f61b0f8,
         type: 3}
+      propertyPath: m_MovementType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1362861573800059390, guid: e969440906153744abf1f4903f61b0f8,
+        type: 3}
       propertyPath: m_ScrollSensitivity
-      value: 1
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 1398341538789183243, guid: e969440906153744abf1f4903f61b0f8,
         type: 3}
@@ -580,6 +585,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchorMin.x
       value: 0.5000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 1362861573800059390, guid: e969440906153744abf1f4903f61b0f8,
+        type: 3}
+      propertyPath: m_MovementType
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1398341538789183243, guid: e969440906153744abf1f4903f61b0f8,
         type: 3}

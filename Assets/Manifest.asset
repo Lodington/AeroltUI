@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: AssetBundleDefinitions
   m_EditorClassIdentifier: 
   StagingPaths:
-  - C:\Users\Bubbet\Desktop\Dev\Programming\C#\Aerolt
+  - C:\Users\tyler\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Default\BepInEx\plugins
   assetBundles:
   - assetBundleName: aeroltbundle
     assets:
