@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3901044587
+CRC: 1788159480
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 27bd100cd527655913cc4df86870d5dd
+    Hash: c2848c13be49ccc74ed54408f89d7b36
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7c1963921e8fbc3fa922d30d82329d87
@@ -147,6 +147,7 @@ Assets:
 - Assets/Aerolt/Components/Dropdown.prefab
 - Assets/Aerolt/Icons/Discord-Logo-Color.png
 - Assets/Aerolt/Prefabs/MonsterWindow Variant.prefab
+- Assets/Aerolt/Icons/NewLogo.png
 - Assets/Aerolt/Components/BuffIcon.prefab
 - Assets/Aerolt/Sprite/Rounded40px.png
 - Assets/Aerolt/Components/ItemIcon.prefab

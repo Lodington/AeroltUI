@@ -129,7 +129,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 43e92dbc76f4adf4da24153da3a28c2c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: eafd3f21066cc134f8970ef97c8fc770, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6380,6 +6380,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Main
       objectReference: {fileID: 0}
+    - target: {fileID: 8246917736173103504, guid: fa0523bc04b02984f97b37b467df4421,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: eafd3f21066cc134f8970ef97c8fc770,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa0523bc04b02984f97b37b467df4421, type: 3}
 --- !u!224 &5912047245466402408 stripped
