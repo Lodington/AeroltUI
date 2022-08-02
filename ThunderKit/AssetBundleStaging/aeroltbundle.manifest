@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1856548431
+CRC: 2829570999
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 39a1b3db34d49a52433b0edda1310697
+    Hash: cd55068715c1d0a613299947f1116dbd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 379d673f5943e9c7e6a1f98e55996dc1
+    Hash: 53dfd91627ebaba193b32ae986ef7e8b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -50,8 +50,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 1392445389, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
-- Class: 114
   Script: {fileID: -1862395651, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
 - Class: 114
   Script: {fileID: 1301386320, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
@@ -77,8 +75,6 @@ ClassTypes:
   Script: {fileID: -1053852145, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
   Script: {fileID: -1655364978, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
-- Class: 114
-  Script: {fileID: 733712478, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
   Script: {fileID: -630047940, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
@@ -169,7 +165,6 @@ Assets:
 - Assets/Aerolt/Icons/Menu_ESP128.png
 - Assets/Aerolt/Icons/icons8-resize-100.png
 - Assets/Aerolt/Sprite/Rounded20px@2x.png
-- Assets/Aerolt/Prefabs/ChangeLogWindow.prefab
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd
 - Assets/Aerolt/Components/Panel.prefab
 - Assets/Aerolt/Prefabs/PlayerCanvas.prefab
@@ -189,7 +184,6 @@ Assets:
 - Assets/Aerolt/Icons/Menu_Equipment128.png
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown Icon.psd
 - Assets/Aerolt/Sprite/Rounded40px@2x.png
-- Assets/Aerolt/Icons/icons8-close-120.png
 - Assets/Aerolt/Icons/Menu_Settings128.png
 - Assets/Aerolt/Prefabs/SocialWindow Variant.prefab
 - Assets/Aerolt/Components/Toggle.prefab

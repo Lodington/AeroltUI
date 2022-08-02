@@ -141,7 +141,7 @@ MonoBehaviour:
   m_Script: {fileID: -573374155, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _token: SHRINE_CLEANSE_NAME
+  _token: NEWT_STATUE_NAME
 --- !u!114 &5897462820513781492
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1152,7 +1152,7 @@ PrefabInstance:
     - target: {fileID: 1919169973612932296, guid: 146708ea4759e4f42b087228b1b39b8b,
         type: 3}
       propertyPath: m_text
-      value: Cleansing Pool
+      value: Newt Alter
       objectReference: {fileID: 0}
     - target: {fileID: 1919169973612932296, guid: 146708ea4759e4f42b087228b1b39b8b,
         type: 3}
@@ -1267,7 +1267,7 @@ PrefabInstance:
     - target: {fileID: 7182109186371372257, guid: 146708ea4759e4f42b087228b1b39b8b,
         type: 3}
       propertyPath: m_Name
-      value: CleansingPool
+      value: NewtAlter
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 146708ea4759e4f42b087228b1b39b8b, type: 3}
