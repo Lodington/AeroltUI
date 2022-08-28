@@ -1,7 +1,10 @@
 ManifestFileVersion: 0
-CRC: 3809457247
+CRC: 2676873085
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
+      Name: commandoskills
+      Dependencies: {}
+    Info_1:
       Name: aeroltbundle
       Dependencies: {}

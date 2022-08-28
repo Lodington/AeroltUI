@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3918530573
+CRC: 789822439
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ad40950b3317a45a0385702ae0fc8e3e
+    Hash: f26282d0681c007a74441b65787a8436
   TypeTreeHash:
     serializedVersion: 2
-    Hash: fb30f8c372c739f20be36619d9d55f8f
+    Hash: 534cc52a5d515680d9029e93f663d0da
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -102,6 +102,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1103547146, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
+  Script: {fileID: -1304266655, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
   Script: {fileID: -1806065810, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 1203538653, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
@@ -114,7 +116,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1777764770, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
+  Script: {fileID: -1543581690, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
+  Script: {fileID: 199012290, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
   Script: {fileID: 1956082171, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
+  Script: {fileID: 227172983, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 938885238, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
@@ -128,13 +136,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: -2140852438, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
+  Script: {fileID: -631381798, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
   Script: {fileID: 1896263481, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 1007779352, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 749430381, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
-- Class: 114
-  Script: {fileID: 1159847275, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -154,12 +162,14 @@ Assets:
 - Assets/Aerolt/Icons/Discord-Logo-Color.png
 - Assets/Aerolt/Prefabs/MonsterWindow Variant.prefab
 - Assets/Aerolt/Icons/NewLogo.png
+- Assets/Aerolt/Icons/Changlog.png
 - Assets/Aerolt/Components/BuffIcon.prefab
 - Assets/Aerolt/Sprite/Rounded40px.png
 - Assets/Aerolt/Components/ItemIcon.prefab
 - Assets/Aerolt/Icons/Menu_Body128.png
 - Assets/Aerolt/Icons/ic_check.png
 - Assets/Aerolt/Icons/Menu_Items128.png
+- Assets/Aerolt/Prefabs/ChatWindowV2.prefab
 - Assets/Aerolt/Sprite/Rounded5px@4x.png
 - Assets/Aerolt/Components/PlayerEntry.prefab
 - Assets/Aerolt/Sprite/Rounded10px@2x.png
@@ -181,6 +191,7 @@ Assets:
 - Assets/Aerolt/Fonts/Oxygen-Regular.ttf
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd
 - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+- Assets/Aerolt/Prefabs/ConnectionWarning.prefab
 - Assets/Aerolt/Components/InputField.prefab
 - Assets/Aerolt/Components/GenButton.prefab
 - Assets/Aerolt/Components/Scroll View.prefab
@@ -189,12 +200,14 @@ Assets:
 - Assets/Aerolt/Sprite/Rounded5px.png
 - Assets/Aerolt/Prefabs/Main Variant.prefab
 - Assets/Aerolt/Icons/Menu_Equipment128.png
+- Assets/Aerolt/Icons/ChatIcon.png
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown Icon.psd
 - Assets/Aerolt/Sprite/Rounded40px@2x.png
 - Assets/Aerolt/Icons/icons8-close-120.png
 - Assets/Aerolt/Icons/Menu_Settings128.png
 - Assets/Aerolt/Prefabs/SocialWindow Variant.prefab
 - Assets/Aerolt/Components/Toggle.prefab
+- Assets/Aerolt/Prefabs/ChatWindow.prefab
 - Assets/Aerolt/Fonts/Oxygen-Bold SDF.asset
 - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
 - Assets/Aerolt/Components/Button.prefab
@@ -211,6 +224,7 @@ Assets:
 - Assets/Aerolt/Icons/Menu_Monster128.png
 - Assets/Aerolt/Components/EditItems.prefab
 - Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+- Assets/Aerolt/Icons/SaberEasterEgg.png
 - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
 - Assets/Aerolt/Sprite/Rounded10px@4x.png
 - Assets/Aerolt/Components/ToggleRight.prefab
