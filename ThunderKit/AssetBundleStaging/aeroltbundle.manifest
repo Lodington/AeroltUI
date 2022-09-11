@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 789822439
+CRC: 1894331070
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f26282d0681c007a74441b65787a8436
+    Hash: c3c222b5a89a5fcbbff00c2e9634cdbe
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 534cc52a5d515680d9029e93f663d0da
+    Hash: e5a8dbf12076e5edf2aae0aec0bb314d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,9 +26,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 2109663825, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
 - Class: 114
-  Script: {fileID: 1979810121, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 1979810121, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
   Script: {fileID: 1034079170, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
@@ -80,8 +80,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 733712478, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
-  Script: {fileID: -630047940, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
-- Class: 114
   Script: {fileID: -573374155, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
   Script: {fileID: 1276946932, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
@@ -116,6 +114,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1777764770, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
+  Script: {fileID: 229304231, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
   Script: {fileID: -1543581690, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 199012290, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
@@ -143,6 +143,8 @@ ClassTypes:
   Script: {fileID: 1007779352, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 114
   Script: {fileID: 749430381, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
+- Class: 114
+  Script: {fileID: -472818702, guid: fa0c524dc855fa54dbe24569f28b16b9, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -196,6 +198,7 @@ Assets:
 - Assets/Aerolt/Components/GenButton.prefab
 - Assets/Aerolt/Components/Scroll View.prefab
 - Assets/Aerolt/Sprite/Rounded20px.png
+- Assets/Aerolt/Components/ProgressBar.prefab
 - Assets/Aerolt/Icons/Menu_Player128.png
 - Assets/Aerolt/Sprite/Rounded5px.png
 - Assets/Aerolt/Prefabs/Main Variant.prefab
@@ -208,6 +211,7 @@ Assets:
 - Assets/Aerolt/Prefabs/SocialWindow Variant.prefab
 - Assets/Aerolt/Components/Toggle.prefab
 - Assets/Aerolt/Prefabs/ChatWindow.prefab
+- Assets/Aerolt/Prefabs/LoadingWindow.prefab
 - Assets/Aerolt/Fonts/Oxygen-Bold SDF.asset
 - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
 - Assets/Aerolt/Components/Button.prefab
